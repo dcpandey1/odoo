@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+
+          <record id="object0" model="real.estate">
+            <field name="name">Swastik Palace</field>
+          </record>
+
+          <record id="object1" model="real.estate">
+            <field name="name"> Ethics Arcon</field>
+          </record>
+    </data>
+</odoo>
